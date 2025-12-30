@@ -1,0 +1,16 @@
+{
+  "name": "code-week-8",
+  "version": "1.0.0",
+  "description": "Repository that illustrates the basics of HTML and CSS — part of the Grafische en Digitale Media learning materials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "tailwindcss": "^4.1.18"
+  }
+}
